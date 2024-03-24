@@ -23,4 +23,5 @@ void main(){
     for(int i=0;i<n;i++){
         printf("%d\t",a[i]);
     }
+    printf("checking whether the git is working or not.");
 }
